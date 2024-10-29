@@ -1,4 +1,4 @@
-# Exercício VII
+# Exercício IV
 ## Sobre o projeto:
 Esse projeto tem como objetivo simular um ambiente onde dois roteador foram utilizados para ligar duas redes. 
 ## Exercício utilizado para a criação do projeto:
